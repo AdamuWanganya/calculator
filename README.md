@@ -2,6 +2,10 @@
 
 This is a simple calculator project that enables a user to click on the numbers and perform the arithmetic that one desires.The main intention is for javascript practising.
 
+## Screenshot
+![Alt text](images/calculator.png?raw=true "Optional Title")
+
+
 
 ## Technologies Used
 
